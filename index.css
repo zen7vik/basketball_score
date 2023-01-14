@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+position: relative;
+width: 575px;
+height: 385px;
+background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container1
+{
+    margin-top: 20px;
+     display: flex;
+    justify-content: center;
+    margin-right: 35px;
+}
+
+#saved-El
+{
+    margin-top:30px;
+    margin-left: 50px;
+    color: red;
+    background: #080001;
+    border-radius: 5px;
+width: 75%;
+height: 70px;
+left: 100px;
+top: 125px;
+padding-top: 10px;
+padding-left: 10px;  
+}
+
+#homeScore, #guestScore{
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+width: 117px;
+height: 120px;
+left: 100px;
+top: 125px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+text-align: center;
+color: #F94F6D;
+margin-left: 15px;
+}
+
+
+
+h3 {
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+text-align: center;
+color: #EEEEEE;
+}
+
+.Savebtn
+{border-radius: 5px;
+width: 117px;
+background: green;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 550;
+font-size: 18px;
+line-height: 36px;
+text-align: center;
+}
+
+.Resetbtn
+{
+width: 117px;
+border-radius: 5px;
+background: red;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 550;
+font-size: 18px;
+line-height: 36px;
+text-align: center;
+}
+
+#btn
+{
+box-sizing: border-box;
+
+background: #1B244A;
+width: 45px;
+height: 45px;
+left: 447px;
+top: 271px;
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+
